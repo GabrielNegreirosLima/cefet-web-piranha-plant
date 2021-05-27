@@ -1,28 +1,37 @@
 body {
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 10%;
+  margin-right: 10%;
   text-align: justify;
+  font-style: "Arial", sans-serif;
 }
 
-h2, h3 {
-    color: green;
+h1 {
+    font-style: "Times New Roman", sans-serif;
+    font-size: 28px;
+    color: limegreen;
 }  
+
+h2 {
+    font-style: "Times New Roman", sans-serif;
+    font-size: 22px;
+    color: limegreen;
+}
 
 blockquote, q {
     font-style: italic;
-    margin-right: 0%;
+    margin-left: 60px;
 }
 
 img {
-    border: 6px solid green;
+    border: 8px solid limegreen;
+    size: 300px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 30px;
 }
 
 #voce-sabia {
-    border: 3px solid green;
-    padding: 3px 6px 3px 6px;
+    border: 3px solid limegreen;
+    padding: 10px;
     background-image: url("../imagens/fundo.png");
 }
