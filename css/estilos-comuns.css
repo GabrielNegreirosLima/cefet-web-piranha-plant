@@ -17,9 +17,13 @@ h2 {
     color: limegreen;
 }
 
-blockquote, q {
+blockquote{
     font-style: italic;
     margin-left: 60px;
+}
+
+q {
+    font-style: italic;
 }
 
 img {
