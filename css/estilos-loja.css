@@ -13,7 +13,7 @@ table {
 }
 
 th {    
-    font-style: "Arial", sans-serif;
+    font-family: "Arial", sans-serif;
     background-color: grey;
     color: white;
     border: 1px solid black;
